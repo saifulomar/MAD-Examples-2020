@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsBubbleXML\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsBubbleXML\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "127,175",
+                        "endColumns": "46,44",
+                        "endOffsets": "169,215"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "378,425",
+                        "endColumns": "46,44",
+                        "endOffsets": "420,465"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsBubbleXML\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,46",
+                        "endOffsets": "105,152"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "470,525",
+                        "endColumns": "54,46",
+                        "endOffsets": "520,567"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsBubbleXML\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "642"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "572",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1158"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsBubbleXML\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,8,7,2,3,5,6",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "144,327,283,55,97,185,232",
+                        "endColumns": "40,50,43,41,46,46,50",
+                        "endOffsets": "180,373,322,92,139,227,278"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,147,191,233,280,327",
+                        "endColumns": "40,50,43,41,46,46,50",
+                        "endOffsets": "91,142,186,228,275,322,373"
+                    }
+                }
+            ]
+        }
+    ]
+}

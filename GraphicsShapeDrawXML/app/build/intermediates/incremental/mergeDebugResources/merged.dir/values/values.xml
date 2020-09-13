@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#E64A19</color>
+    <color name="background_color">#08237e</color>
+    <color name="edit_text">#202020</color>
+    <color name="primary">#FF5722</color>
+    <color name="primary_dark">#E64A19</color>
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#727272</color>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="image_size">250dp</dimen>
+    <string name="app_name">GraphicsShapeDrawXML</string>
+    <string name="cyan_circle">Cyan Circle</string>
+    <string name="magenta_circle"> Magenta Circle </string>
+    <style name="MaterialTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+        <item name="android:editTextColor">@color/edit_text</item>
+        <item name="android:windowBackground">@color/background_color</item>
+    </style>
+</resources>

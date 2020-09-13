@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\LocationGetLocation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\LocationGetLocation\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,7,6,3,5",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "195,55,355,301,112,252",
+                        "endColumns": "56,56,51,53,82,48",
+                        "endOffsets": "247,107,402,350,190,296"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "491,548,605,657,711,794",
+                        "endColumns": "56,56,51,53,82,48",
+                        "endOffsets": "543,600,652,706,789,838"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\LocationGetLocation\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "174",
+                        "endColumns": "82",
+                        "endOffsets": "252"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "410",
+                        "endColumns": "80",
+                        "endOffsets": "486"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\LocationGetLocation\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,7,2,3,5,8,6",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "144,281,55,97,185,325,232",
+                        "endColumns": "40,43,41,46,46,39,48",
+                        "endOffsets": "180,320,92,139,227,360,276"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "100,141,185,227,274,321,361",
+                        "endColumns": "40,43,41,46,46,39,48",
+                        "endOffsets": "136,180,222,269,316,356,405"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\LocationGetLocation\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "633"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "843",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "1421"
+                    }
+                }
+            ]
+        }
+    ]
+}

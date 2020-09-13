@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsTransitionDrawable\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsTransitionDrawable\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,8,7,2,3,5,6",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "144,325,281,55,97,185,232",
+                        "endColumns": "40,50,43,41,46,46,48",
+                        "endOffsets": "180,371,320,92,139,227,276"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,147,191,233,280,327",
+                        "endColumns": "40,50,43,41,46,46,48",
+                        "endOffsets": "91,142,186,228,275,322,371"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsTransitionDrawable\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "98,55",
+                        "endColumns": "45,42",
+                        "endOffsets": "139,93"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "376,422",
+                        "endColumns": "45,42",
+                        "endOffsets": "417,460"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsTransitionDrawable\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,58",
+                        "endOffsets": "114,173"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "465,529",
+                        "endColumns": "63,58",
+                        "endOffsets": "524,583"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsTransitionDrawable\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "641"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "588",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1173"
+                    }
+                }
+            ]
+        }
+    ]
+}

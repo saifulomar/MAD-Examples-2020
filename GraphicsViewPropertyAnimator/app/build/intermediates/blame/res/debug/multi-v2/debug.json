@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsViewPropertyAnimator\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsViewPropertyAnimator\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,46",
+                        "endOffsets": "116,163"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "463,529",
+                        "endColumns": "65,46",
+                        "endOffsets": "524,571"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsViewPropertyAnimator\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "99,55",
+                        "endColumns": "42,43",
+                        "endOffsets": "137,94"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "376,419",
+                        "endColumns": "42,43",
+                        "endOffsets": "414,458"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsViewPropertyAnimator\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "641"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "576",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1161"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\GraphicsViewPropertyAnimator\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,8,7,2,3,5,6",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "144,325,281,55,97,185,232",
+                        "endColumns": "40,50,43,41,46,46,48",
+                        "endOffsets": "180,371,320,92,139,227,276"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,147,191,233,280,327",
+                        "endColumns": "40,50,43,41,46,46,48",
+                        "endOffsets": "91,142,186,228,275,322,371"
+                    }
+                }
+            ]
+        }
+    ]
+}

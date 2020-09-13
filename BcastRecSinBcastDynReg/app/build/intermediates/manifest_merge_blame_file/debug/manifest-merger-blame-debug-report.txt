@@ -1,0 +1,42 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="course.examples.broadcastreceiver.singlebroadcastdynamicregistration" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="29" />
+7-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.VIBRATE" />
+9-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml:5:5-66
+9-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml:5:22-63
+10
+11    <application
+11-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml:7:5-19:19
+12        android:allowBackup="false"
+12-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml:8:9-36
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml:9:9-43
+15        android:label="@string/app_name"
+15-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml:10:9-41
+16        android:theme="@style/MaterialTheme" >
+16-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml:11:9-45
+17        <activity android:name="course.examples.broadcastreceiver.singlebroadcastdynamicregistration.SingleBroadcastActivity" >
+17-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml:12:9-18:20
+17-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml:12:19-58
+18            <intent-filter>
+18-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml:13:13-17:29
+19                <action android:name="android.intent.action.MAIN" />
+19-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml:14:17-69
+19-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml:14:25-66
+20
+21                <category android:name="android.intent.category.LAUNCHER" />
+21-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml:16:17-77
+21-->C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\BcastRecSinBcastDynReg\app\src\main\AndroidManifest.xml:16:27-74
+22            </intent-filter>
+23        </activity>
+24    </application>
+25
+26</manifest>

@@ -1,0 +1,15 @@
+course.examples.broadcastreceiver.singlebroadcastdynamicregistration
+color accent
+color edit_text
+color primary
+color primary_dark
+color primary_text
+color secondary_text
+color white
+dimen activity_margin
+id button
+layout main
+mipmap ic_launcher
+string app_name
+string broadcast_intent_string
+style MaterialTheme

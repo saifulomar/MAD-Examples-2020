@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentQuoteViewerWithActivity\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentQuoteViewerWithActivity\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "8,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "305,124,55",
+                        "endLines": "12,7,2",
+                        "endColumns": "19,19,68",
+                        "endOffsets": "750,300,119"
+                    },
+                    "to": {
+                        "startLines": "2,7,22",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,550,1260",
+                        "endLines": "6,11,22",
+                        "endColumns": "19,19,68",
+                        "endOffsets": "545,726,1324"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentQuoteViewerWithActivity\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "127",
+                        "endColumns": "46",
+                        "endOffsets": "169"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "1213",
+                        "endColumns": "46",
+                        "endOffsets": "1255"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentQuoteViewerWithActivity\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "5,10,8,9,2,3,4,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "273,520,410,454,102,144,191,314,361",
+                        "endColumns": "40,69,43,65,41,46,81,46,48",
+                        "endOffsets": "309,585,449,515,139,186,268,356,405"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "731,772,840,884,948,990,1037,1117,1164",
+                        "endColumns": "40,67,43,63,41,46,79,46,48",
+                        "endOffsets": "767,835,879,943,985,1032,1112,1159,1208"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentQuoteViewerWithActivity\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "633"
+                    },
+                    "to": {
+                        "startLines": "23",
+                        "startColumns": "4",
+                        "startOffsets": "1329",
+                        "endLines": "31",
+                        "endColumns": "12",
+                        "endOffsets": "1907"
+                    }
+                }
+            ]
+        }
+    ]
+}

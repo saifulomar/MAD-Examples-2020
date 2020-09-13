@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Quotes">
+        <item>Now cracks a noble heart. Good-night, sweet prince; And flights of angels sing thee to thy rest.</item>
+        <item>As flies to wanton boys, are we to the gods; they kill us for their sport.</item>
+        <item>There is a tide in the affairs of men, which taken at the flood, leads on to fortune. Omitted, all the voyage of their life is bound in shallows and in miseries.</item>
+    </string-array>
+    <string-array name="Titles">
+        <item>The Tragedy of Hamlet, Prince of Denmark</item>
+        <item>King Lear</item>
+        <item>Julius Caesar</item>
+    </string-array>
+    <color name="accent">#CCE5FF</color>
+    <color name="edit_text">#202020</color>
+    <color name="primary">#FF5722</color>
+    <color name="primary_dark">#E64A19</color>
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#727272</color>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="content_area_space">8dp</dimen>
+    <string name="app_name">FragmentStaticLayout</string>
+    <string name="noQuoteSelected">Please select a Title.</string>
+    <style name="MaterialTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+        <item name="android:editTextColor">@color/edit_text</item>
+        <item name="android:colorButtonNormal">@color/primary</item>
+    </style>
+</resources>

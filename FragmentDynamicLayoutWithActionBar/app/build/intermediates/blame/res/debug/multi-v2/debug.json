@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "127,219",
+                        "endColumns": "46,48",
+                        "endOffsets": "169,263"
+                    },
+                    "to": {
+                        "startLines": "21,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "1213,1260",
+                        "endColumns": "46,48",
+                        "endOffsets": "1255,1304"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "633"
+                    },
+                    "to": {
+                        "startLines": "28",
+                        "startColumns": "4",
+                        "startOffsets": "1604",
+                        "endLines": "36",
+                        "endColumns": "12",
+                        "endOffsets": "2182"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "14,9,4,3,6,5,7",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "533,352,128,56,249,185,300",
+                        "endLines": "18,13,4,3,6,5,7",
+                        "endColumns": "19,19,56,71,50,63,50",
+                        "endOffsets": "978,528,180,123,295,244,346"
+                    },
+                    "to": {
+                        "startLines": "2,7,23,24,25,26,27",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "100,550,1309,1366,1438,1489,1553",
+                        "endLines": "6,11,23,24,25,26,27",
+                        "endColumns": "19,19,56,71,50,63,50",
+                        "endOffsets": "545,726,1361,1433,1484,1548,1599"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "5,10,8,9,2,3,4,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "273,520,410,454,102,144,191,314,361",
+                        "endColumns": "40,69,43,65,41,46,81,46,48",
+                        "endOffsets": "309,585,449,515,139,186,268,356,405"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "731,772,840,884,948,990,1037,1117,1164",
+                        "endColumns": "40,67,43,63,41,46,79,46,48",
+                        "endOffsets": "767,835,879,943,985,1032,1112,1159,1208"
+                    }
+                }
+            ]
+        }
+    ]
+}

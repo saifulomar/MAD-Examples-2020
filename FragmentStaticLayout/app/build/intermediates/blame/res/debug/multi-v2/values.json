@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentStaticLayout\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentStaticLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "8,3,2,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "294,113,55,744",
+                        "endLines": "12,7,2,13",
+                        "endColumns": "19,19,57,66",
+                        "endOffsets": "739,289,108,806"
+                    },
+                    "to": {
+                        "startLines": "2,7,20,21",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,505,1052,1110",
+                        "endLines": "6,11,20,21",
+                        "endColumns": "19,19,57,66",
+                        "endOffsets": "500,681,1105,1172"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentStaticLayout\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "633"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "1177",
+                        "endLines": "30",
+                        "endColumns": "12",
+                        "endOffsets": "1755"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentStaticLayout\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,7,2,3,5,6",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "144,281,55,97,185,232",
+                        "endColumns": "40,43,41,46,46,48",
+                        "endOffsets": "180,320,92,139,227,276"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "686,727,771,813,860,907",
+                        "endColumns": "40,43,41,46,46,48",
+                        "endOffsets": "722,766,808,855,902,951"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\FragmentStaticLayout\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "127,219",
+                        "endColumns": "46,48",
+                        "endOffsets": "169,263"
+                    },
+                    "to": {
+                        "startLines": "18,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "956,1003",
+                        "endColumns": "46,48",
+                        "endOffsets": "998,1047"
+                    }
+                }
+            ]
+        }
+    ]
+}

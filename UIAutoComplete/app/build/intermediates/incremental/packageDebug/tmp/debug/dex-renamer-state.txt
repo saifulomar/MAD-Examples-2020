@@ -1,0 +1,4 @@
+#Sun Aug 30 23:46:53 SGT 2020
+base.0=C\:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\UIAutoComplete\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

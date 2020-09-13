@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\NetworkingSockets\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\NetworkingSockets\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "633"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "571",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1149"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\NetworkingSockets\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,111",
+                        "endColumns": "54,54",
+                        "endOffsets": "106,161"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "461,516",
+                        "endColumns": "54,54",
+                        "endOffsets": "511,566"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\NetworkingSockets\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "127,175",
+                        "endColumns": "46,48",
+                        "endOffsets": "169,219"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "365,412",
+                        "endColumns": "46,48",
+                        "endOffsets": "407,456"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\NetworkingSockets\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,7,2,3,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "144,281,55,97,185,232,325",
+                        "endColumns": "40,43,41,46,46,48,39",
+                        "endOffsets": "180,320,92,139,227,276,360"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,140,182,229,276,325",
+                        "endColumns": "40,43,41,46,46,48,39",
+                        "endOffsets": "91,135,177,224,271,320,360"
+                    }
+                }
+            ]
+        }
+    ]
+}

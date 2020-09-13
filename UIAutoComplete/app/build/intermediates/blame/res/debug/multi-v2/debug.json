@@ -1,0 +1,74 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\UIAutoComplete\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\UIAutoComplete\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,-1,-1,-1",
+                        "startColumns": "4,-1,-1,-1",
+                        "startOffsets": "223,-1,-1,-1",
+                        "endLines": "240,-1,-1,-1",
+                        "endColumns": "19,-1,-1,-1",
+                        "endOffsets": "7647,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,249,250,251",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "100,8107,8159,8211",
+                        "endLines": "237,249,250,251",
+                        "endColumns": "19,51,51,63",
+                        "endOffsets": "7524,8154,8206,8270"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\UIAutoComplete\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "247,248",
+                        "startColumns": "4,4",
+                        "startOffsets": "8011,8058",
+                        "endColumns": "46,48",
+                        "endOffsets": "8053,8102"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\UIAutoComplete\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "252",
+                        "startColumns": "4",
+                        "startOffsets": "8275",
+                        "endLines": "260",
+                        "endColumns": "12",
+                        "endOffsets": "8853"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\UIAutoComplete\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "238,239,240,241,242,243,244,245,246",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7529,7570,7638,7682,7746,7788,7835,7915,7962",
+                        "endColumns": "40,67,43,63,41,46,79,46,48",
+                        "endOffsets": "7565,7633,7677,7741,7783,7830,7910,7957,8006"
+                    }
+                }
+            ]
+        }
+    ]
+}

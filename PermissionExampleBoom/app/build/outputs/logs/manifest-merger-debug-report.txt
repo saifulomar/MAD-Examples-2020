@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+permission#course.examples.permissionexample.BOOM_PERM
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:9:5-13:46
+	android:label
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:12:9-61
+	android:protectionLevel
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:13:9-44
+	android:description
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:11:9-55
+	android:name
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:10:9-67
+application
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:17:5-41:19
+	android:label
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:21:9-41
+	android:permission
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:22:9-73
+	android:icon
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:20:9-45
+activity#course.examples.permissionexample.boom.BoomActivity
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:23:9-40:20
+	android:label
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:30:27-74
+intent-filter#action:name:course.examples.permissionexample.boom.boom_action+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:35:13-39:29
+action#course.examples.permissionexample.boom.boom_action
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:36:17-93
+	android:name
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:36:25-90
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml:38:27-73
+uses-sdk
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\PermissionExampleBoom\app\src\main\AndroidManifest.xml

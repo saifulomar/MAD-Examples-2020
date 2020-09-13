@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\UIRatingsBar\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\UIRatingsBar\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "5,10,7,9,2,3,4,6,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "273,520,361,454,102,144,191,314,405",
+                        "endColumns": "40,69,43,65,41,46,81,46,48",
+                        "endOffsets": "309,585,400,515,139,186,268,356,449"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,141,209,253,317,359,406,486,533",
+                        "endColumns": "40,67,43,63,41,46,79,46,48",
+                        "endOffsets": "136,204,248,312,354,401,481,528,577"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\UIRatingsBar\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,105",
+                        "endColumns": "49,54",
+                        "endOffsets": "100,155"
+                    },
+                    "to": {
+                        "startLines": "13,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "678,728",
+                        "endColumns": "49,54",
+                        "endOffsets": "723,778"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\UIRatingsBar\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "633"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "783",
+                        "endLines": "23",
+                        "endColumns": "12",
+                        "endOffsets": "1361"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\UIRatingsBar\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "127,175",
+                        "endColumns": "46,48",
+                        "endOffsets": "169,219"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "582,629",
+                        "endColumns": "46,48",
+                        "endOffsets": "624,673"
+                    }
+                }
+            ]
+        }
+    ]
+}

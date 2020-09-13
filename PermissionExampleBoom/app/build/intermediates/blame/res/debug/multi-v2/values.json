@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\PermissionExampleBoom\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\PermissionExampleBoom\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,5,6,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "56,161,275,115",
+                        "endColumns": "58,113,72,45",
+                        "endOffsets": "110,270,343,156"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "749,808,922,995",
+                        "endColumns": "58,113,72,45",
+                        "endOffsets": "803,917,990,1036"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\PermissionExampleBoom\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "174,302",
+                        "endColumns": "82,87",
+                        "endOffsets": "252,385"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "582,663",
+                        "endColumns": "80,85",
+                        "endOffsets": "658,744"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\PermissionExampleBoom\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "633"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "1041",
+                        "endLines": "25",
+                        "endColumns": "12",
+                        "endOffsets": "1619"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\PermissionExampleBoom\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "5,10,8,9,2,3,4,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "273,520,410,454,102,144,191,314,361",
+                        "endColumns": "40,69,43,65,41,46,81,46,48",
+                        "endOffsets": "309,585,449,515,139,186,268,356,405"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,141,209,253,317,359,406,486,533",
+                        "endColumns": "40,67,43,63,41,46,79,46,48",
+                        "endOffsets": "136,204,248,312,354,401,481,528,577"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+#Mon Aug 31 11:31:15 SGT 2020
+base.0=C\:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\UIGoogleMaps\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\UIGoogleMaps\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex

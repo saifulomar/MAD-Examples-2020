@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\TouchGestureViewFlipperTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\TouchGestureViewFlipperTest\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "633"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "428",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "1006"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\TouchGestureViewFlipperTest\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,7,2,3,5,6",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "144,281,55,97,185,232",
+                        "endColumns": "40,43,41,46,46,48",
+                        "endOffsets": "180,320,92,139,227,276"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,96,140,182,229,276",
+                        "endColumns": "40,43,41,46,46,48",
+                        "endOffsets": "91,135,177,224,271,320"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\TouchGestureViewFlipperTest\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "325",
+                        "endColumns": "41",
+                        "endOffsets": "362"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\TouchGestureViewFlipperTest\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "60",
+                        "endOffsets": "112"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "367",
+                        "endColumns": "60",
+                        "endOffsets": "423"
+                    }
+                }
+            ]
+        }
+    ]
+}

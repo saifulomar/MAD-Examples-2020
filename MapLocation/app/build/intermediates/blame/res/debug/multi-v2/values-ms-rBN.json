@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\MapLocation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms-rBN\\values-ms-rBN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\UTB MS SP 1796 05-12\\Documents\\UTB\\Teaching Module\\MAD\\Examples\\coursera-android-master\\Examples2018\\MapLocation\\app\\src\\main\\res\\values-ms-rBN\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "114,57",
+                        "endColumns": "59,55",
+                        "endOffsets": "169,108"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,115",
+                        "endColumns": "59,55",
+                        "endOffsets": "110,166"
+                    }
+                }
+            ]
+        }
+    ]
+}

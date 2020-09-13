@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7b154389c266e60f5d9c64142bd83dd2\play-services-maps-11.6.0\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\d6dfc9342440b4da4d267680507f2c96\play-services-base-11.6.0\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\59652082a6954bb59a617560ed034085\play-services-tasks-11.6.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\b5d84e67adcf3a6c8b798456d0d2320f\play-services-basement-11.6.0\AndroidManifest.xml:16:1-23:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\713c06aedd661037b76fa361d42083d1\play-services-maps-license-11.6.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\cc8a8aabbd469c222bdcfc7135eef4e1\play-services-base-license-11.6.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\47ec38ce87858c1849ebf8846815c19a\support-v4-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7799199ab1e2e6e3c2227cd890889358\play-services-basement-license-11.6.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\c4a0b68429446977660341a96b3566e1\play-services-tasks-license-11.6.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\f3d9065f63d0d4a950820fc80b2d65aa\support-fragment-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\35c1ad5fc3152534877ca992850549d3\support-media-compat-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\19bae7181c40c8f35e3afea583f48d0a\support-core-utils-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\1c3b80d1117c251895dfdcec6bc2465d\support-core-ui-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\1aff564f6b2c25baf97e0a0f6933b1cd\support-compat-25.2.0\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7b154389c266e60f5d9c64142bd83dd2\play-services-maps-11.6.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7b154389c266e60f5d9c64142bd83dd2\play-services-maps-11.6.0\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:7:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7b154389c266e60f5d9c64142bd83dd2\play-services-maps-11.6.0\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7b154389c266e60f5d9c64142bd83dd2\play-services-maps-11.6.0\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\d6dfc9342440b4da4d267680507f2c96\play-services-base-11.6.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\d6dfc9342440b4da4d267680507f2c96\play-services-base-11.6.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\59652082a6954bb59a617560ed034085\play-services-tasks-11.6.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\59652082a6954bb59a617560ed034085\play-services-tasks-11.6.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\b5d84e67adcf3a6c8b798456d0d2320f\play-services-basement-11.6.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\b5d84e67adcf3a6c8b798456d0d2320f\play-services-basement-11.6.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\713c06aedd661037b76fa361d42083d1\play-services-maps-license-11.6.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\713c06aedd661037b76fa361d42083d1\play-services-maps-license-11.6.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\cc8a8aabbd469c222bdcfc7135eef4e1\play-services-base-license-11.6.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\cc8a8aabbd469c222bdcfc7135eef4e1\play-services-base-license-11.6.0\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\47ec38ce87858c1849ebf8846815c19a\support-v4-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\47ec38ce87858c1849ebf8846815c19a\support-v4-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7799199ab1e2e6e3c2227cd890889358\play-services-basement-license-11.6.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7799199ab1e2e6e3c2227cd890889358\play-services-basement-license-11.6.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\c4a0b68429446977660341a96b3566e1\play-services-tasks-license-11.6.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\c4a0b68429446977660341a96b3566e1\play-services-tasks-license-11.6.0\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\f3d9065f63d0d4a950820fc80b2d65aa\support-fragment-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\f3d9065f63d0d4a950820fc80b2d65aa\support-fragment-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\35c1ad5fc3152534877ca992850549d3\support-media-compat-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\35c1ad5fc3152534877ca992850549d3\support-media-compat-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\19bae7181c40c8f35e3afea583f48d0a\support-core-utils-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\19bae7181c40c8f35e3afea583f48d0a\support-core-utils-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\1c3b80d1117c251895dfdcec6bc2465d\support-core-ui-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\1c3b80d1117c251895dfdcec6bc2465d\support-core-ui-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\1aff564f6b2c25baf97e0a0f6933b1cd\support-compat-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\1aff564f6b2c25baf97e0a0f6933b1cd\support-compat-25.2.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:11:9-45
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:13:9-15:55
+	android:value
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:15:13-52
+	android:name
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:14:13-58
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:17:9-19:68
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\b5d84e67adcf3a6c8b798456d0d2320f\play-services-basement-11.6.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\b5d84e67adcf3a6c8b798456d0d2320f\play-services-basement-11.6.0\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:19:13-66
+	android:name
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:18:13-58
+activity#course.examples.maps.earthquakemap.MainActivity
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:27:27-74
+activity#course.examples.maps.earthquakemap.MapsEarthquakeMapActivity
+ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:32:9-34:48
+	android:label
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml:33:13-54
+uses-sdk
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7b154389c266e60f5d9c64142bd83dd2\play-services-maps-11.6.0\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7b154389c266e60f5d9c64142bd83dd2\play-services-maps-11.6.0\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\d6dfc9342440b4da4d267680507f2c96\play-services-base-11.6.0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\d6dfc9342440b4da4d267680507f2c96\play-services-base-11.6.0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\59652082a6954bb59a617560ed034085\play-services-tasks-11.6.0\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\59652082a6954bb59a617560ed034085\play-services-tasks-11.6.0\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\b5d84e67adcf3a6c8b798456d0d2320f\play-services-basement-11.6.0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\b5d84e67adcf3a6c8b798456d0d2320f\play-services-basement-11.6.0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\713c06aedd661037b76fa361d42083d1\play-services-maps-license-11.6.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\713c06aedd661037b76fa361d42083d1\play-services-maps-license-11.6.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\cc8a8aabbd469c222bdcfc7135eef4e1\play-services-base-license-11.6.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\cc8a8aabbd469c222bdcfc7135eef4e1\play-services-base-license-11.6.0\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\47ec38ce87858c1849ebf8846815c19a\support-v4-25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\47ec38ce87858c1849ebf8846815c19a\support-v4-25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7799199ab1e2e6e3c2227cd890889358\play-services-basement-license-11.6.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7799199ab1e2e6e3c2227cd890889358\play-services-basement-license-11.6.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\c4a0b68429446977660341a96b3566e1\play-services-tasks-license-11.6.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\c4a0b68429446977660341a96b3566e1\play-services-tasks-license-11.6.0\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\f3d9065f63d0d4a950820fc80b2d65aa\support-fragment-25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\f3d9065f63d0d4a950820fc80b2d65aa\support-fragment-25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\35c1ad5fc3152534877ca992850549d3\support-media-compat-25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\35c1ad5fc3152534877ca992850549d3\support-media-compat-25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\19bae7181c40c8f35e3afea583f48d0a\support-core-utils-25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\19bae7181c40c8f35e3afea583f48d0a\support-core-utils-25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\1c3b80d1117c251895dfdcec6bc2465d\support-core-ui-25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\1c3b80d1117c251895dfdcec6bc2465d\support-core-ui-25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\1aff564f6b2c25baf97e0a0f6933b1cd\support-compat-25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\1aff564f6b2c25baf97e0a0f6933b1cd\support-compat-25.2.0\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\47ec38ce87858c1849ebf8846815c19a\support-v4-25.2.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UTB MS SP 1796 05-12\Documents\UTB\Teaching Module\MAD\Examples\coursera-android-master\Examples2018\MapEarthQuakeMap\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7b154389c266e60f5d9c64142bd83dd2\play-services-maps-11.6.0\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7b154389c266e60f5d9c64142bd83dd2\play-services-maps-11.6.0\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7b154389c266e60f5d9c64142bd83dd2\play-services-maps-11.6.0\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7b154389c266e60f5d9c64142bd83dd2\play-services-maps-11.6.0\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\7b154389c266e60f5d9c64142bd83dd2\play-services-maps-11.6.0\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\d6dfc9342440b4da4d267680507f2c96\play-services-base-11.6.0\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\d6dfc9342440b4da4d267680507f2c96\play-services-base-11.6.0\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\d6dfc9342440b4da4d267680507f2c96\play-services-base-11.6.0\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\UTB MS SP 1796 05-12\.gradle\caches\transforms-2\files-2.1\d6dfc9342440b4da4d267680507f2c96\play-services-base-11.6.0\AndroidManifest.xml:19:19-85
